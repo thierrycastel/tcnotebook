@@ -5,4 +5,7 @@ Les principaux packages utilisés sont :
 - pour le spatial : sp, sf, maptools, spatstat, rgdal, raster
 - pour les données : fonction de base, data.table, ncdf4
 ## Pour Python
-les principaux packages : numpy, scipy, pandas, geopandas, netcdf4, matplotlib, basemap, cartopy
+Les principaux packages : numpy, scipy, pandas, geopandas, netcdf4, matplotlib, basemap, cartopy
+
+## Pour les Systèmes d'Information Géographique (SIG)
+Le logiciel utilisé : QGIS
